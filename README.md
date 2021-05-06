@@ -65,6 +65,6 @@ from 224 × 224 to 448 × 448），训练的过程中注意label与网络的输�
 
 
 ### Requirements
-1. Tensorflow
+1. Tensorflow 1.15
 
 2. OpenCV
